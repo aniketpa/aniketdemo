@@ -5,3 +5,8 @@ welcome to cybage.start demo with integration
 sonarqube with eclipse
 vsts with jmeter
 git with testng framework
+
+bit bucket
+mtm
+TFS
+Microsoft 
